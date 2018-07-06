@@ -1,0 +1,6 @@
+E:\Project\FileZillaGrabber\FileZillaGrabber\bin\Debug\FileZillaGrabber.exe
+E:\Project\FileZillaGrabber\FileZillaGrabber\bin\Debug\FileZillaGrabber.pdb
+E:\Project\FileZillaGrabber\FileZillaGrabber\obj\Debug\FileZillaGrabber.csprojAssemblyReference.cache
+E:\Project\FileZillaGrabber\FileZillaGrabber\obj\Debug\FileZillaGrabber.csproj.CoreCompileInputs.cache
+E:\Project\FileZillaGrabber\FileZillaGrabber\obj\Debug\FileZillaGrabber.exe
+E:\Project\FileZillaGrabber\FileZillaGrabber\obj\Debug\FileZillaGrabber.pdb
